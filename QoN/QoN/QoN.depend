@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526814138 source:/home/kiran/Documents/QoN/QoN/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"defination.hpp"
+	<SFML/Audio.hpp>
+	<sqlite3.h>
+
+1526808760 /home/kiran/Documents/QoN/QoN/defination.hpp
+
